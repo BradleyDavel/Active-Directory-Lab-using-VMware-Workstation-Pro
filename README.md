@@ -158,7 +158,7 @@ Click: Active Directory Users and Computers (ADUC)
 In ADUC, right-click your domain (corp.local) → New → Organizational Unit
 Create the following structure:
 
-corp.local
+corp.local</br>
 ├── Users</br>
 ├── IT</br>
 ├── Sales</br>
