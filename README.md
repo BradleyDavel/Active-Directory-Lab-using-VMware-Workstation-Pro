@@ -27,7 +27,7 @@ Ensure your system supports virtualization and that it's turned on. Most modern 
 
 ✅ Lab Setup Instructions:
 
-Step 1: Configure Host-Only Network in VirtualBox
+Step 1: Configure Host-Only Network in VMWare
 1. Open VMWare workstation → `Edit → Virtual Network Editor`
 2. Click on VMnet1
 3. Click on change settings:
@@ -116,7 +116,7 @@ If you don't already have a Windows 10 ISO:
 
 You can now use this ISO to install Windows 10 Pro in your VM.
 
-5.2: Install Windows 10 Pro in VirtualBox
+5.2: Install Windows 10 Pro in VMWare
 1. Create VM named `Client01`
    - RAM: 2GB+, HDD: 50GB, Network: Host-Only
    - Mount the ISO created above
