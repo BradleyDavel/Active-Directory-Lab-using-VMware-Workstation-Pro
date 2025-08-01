@@ -159,10 +159,10 @@ In ADUC, right-click your domain (corp.local) → New → Organizational Unit
 Create the following structure:
 
 corp.local
-├── Users
-├── IT
-├── Sales
-└── Workstations
+├── Users</br>
+├── IT</br>
+├── Sales</br>
+└── Workstations</br>
 
 OUs help organize users, computers, and apply GPOs logically.
 
