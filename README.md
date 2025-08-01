@@ -68,7 +68,7 @@ Step 3: Install Windows Server (DC01)
 ![step7](images/steps/step7.png)  
 ![step8](images/steps/step8.png)  
 ![step9](images/steps/step9.png)  
-![step10](images/steps/step10.png)
+![step10](images/steps/step10.png)</br> </br>
 3. Set Admin password: `P@ssw0rd!`
 4. Rename computer to `DC01` → Reboot
 5. Set static IP:
