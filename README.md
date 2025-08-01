@@ -57,7 +57,10 @@ Make sure to verify the file integrity with provided checksums if needed.  <br> 
 
 Step 3: Install Windows Server (DC01)
 ![step1](images/steps/step1.png)
-![step2](images/steps/step2.png)  
+![step2](images/steps/step2.png) 
+</br><b>To Avoid the following error:</b></br> 
+![warning](images/steps/warning.png) 
+</br><b>We press I will install the operating system later:</b></br>
 ![step3](images/steps/step3.png)  
 ![step4](images/steps/step4.png)  
 ![step5](images/steps/step5.png)  
